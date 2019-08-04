@@ -4227,7 +4227,7 @@ var defaultOptions = {
     kind: OptionKind.VIEWER + OptionKind.PREFERENCE
   },
   defaultUrl: {
-    value: 'default.pdf',
+    value: 'https://cors-escape.glitch.me/dl.dropboxusercontent.com/s/xb4aap88wowimfw/ItemBound%20Crafting%20Guide%20v1.9.pdf',
     kind: OptionKind.VIEWER
   },
   defaultZoomValue: {
